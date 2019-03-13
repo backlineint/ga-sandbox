@@ -1,0 +1,4 @@
+name: ga-sandbox
+recipe: drupal8
+config:
+  webroot: web
