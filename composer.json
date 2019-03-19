@@ -24,6 +24,7 @@
         "drupal/core": "^8.6.0",
         "drupal/datalayer": "^1.0@beta",
         "drupal/google_analytics": "^3.0",
+        "drupal/google_tag": "^1.1",
         "drupal/token": "^1.5",
         "drush/drush": "^9.0.0",
         "vlucas/phpdotenv": "^2.4",
